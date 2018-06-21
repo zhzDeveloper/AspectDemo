@@ -21,6 +21,7 @@
 
 /* Begin PBXFileReference section */
 		9D56B7AC2063CCBE0040E5B1 /* index.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = index.js; sourceTree = "<group>"; };
+		9D56B7B12064E0AB0040E5B1 /* BxTestProtocol.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = BxTestProtocol.h; sourceTree = "<group>"; };
 		9D62F5F52060DA2C003573BA /* BXPatchManager.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = BXPatchManager.h; sourceTree = "<group>"; };
 		9D62F5F62060DA2C003573BA /* BXPatchManager.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = BXPatchManager.m; sourceTree = "<group>"; };
 		9D72BCC020579E6200455638 /* AspectDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AspectDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -75,6 +76,7 @@
 				9D72BCC720579E6200455638 /* ViewController.m */,
 				9D72BCDD2057C25500455638 /* ViewController+imp.h */,
 				9D72BCDE2057C25500455638 /* ViewController+imp.m */,
+				9D56B7B12064E0AB0040E5B1 /* BxTestProtocol.h */,
 				9D72BCE1205BA37800455638 /* Aspects.h */,
 				9D72BCE0205BA37800455638 /* Aspects.m */,
 				9D62F5F52060DA2C003573BA /* BXPatchManager.h */,
